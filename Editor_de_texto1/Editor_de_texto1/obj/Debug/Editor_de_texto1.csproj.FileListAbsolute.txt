@@ -1,0 +1,11 @@
+C:\Users\keith\source\repos\Editor_de_texto1\Editor_de_texto1\bin\Debug\Editor_de_texto1.exe.config
+C:\Users\keith\source\repos\Editor_de_texto1\Editor_de_texto1\bin\Debug\Editor_de_texto1.exe
+C:\Users\keith\source\repos\Editor_de_texto1\Editor_de_texto1\bin\Debug\Editor_de_texto1.pdb
+C:\Users\keith\source\repos\Editor_de_texto1\Editor_de_texto1\obj\Debug\Editor_de_texto1.csproj.AssemblyReference.cache
+C:\Users\keith\source\repos\Editor_de_texto1\Editor_de_texto1\obj\Debug\Editor_de_texto1.csproj.SuggestedBindingRedirects.cache
+C:\Users\keith\source\repos\Editor_de_texto1\Editor_de_texto1\obj\Debug\Editor_de_texto1.Form1.resources
+C:\Users\keith\source\repos\Editor_de_texto1\Editor_de_texto1\obj\Debug\Editor_de_texto1.Properties.Resources.resources
+C:\Users\keith\source\repos\Editor_de_texto1\Editor_de_texto1\obj\Debug\Editor_de_texto1.csproj.GenerateResource.cache
+C:\Users\keith\source\repos\Editor_de_texto1\Editor_de_texto1\obj\Debug\Editor_de_texto1.csproj.CoreCompileInputs.cache
+C:\Users\keith\source\repos\Editor_de_texto1\Editor_de_texto1\obj\Debug\Editor_de_texto1.exe
+C:\Users\keith\source\repos\Editor_de_texto1\Editor_de_texto1\obj\Debug\Editor_de_texto1.pdb
